@@ -1,5 +1,5 @@
 _repo: The-Young-Circus-Rider-or-the-Mystery-of-Robert-Rudd_56056
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Alger, Horatio, Jr.
@@ -14,7 +14,12 @@ contributor:
     gutenberg_agent_id: '168'
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+covers:
+- cover_type: archival
+  image_path: 56056-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56056#The-Young-Circus-Rider-or-the-Mystery-of-Robert-Rudd
 gutenberg_issued: '2017-11-27'
 gutenberg_type: Text
 identifiers:
